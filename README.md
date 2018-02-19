@@ -1,4 +1,4 @@
-# Louvre Abu Dhabi's Interactive Flute Installation
+# Interactive Flute Installation for a Museum in Abu Dhabi
 The project was to come up with an interactive musical installation for Louvre Abu Dhabi. This repo is dedicated to the development of a prototype of the installation. It uses a leap motion input to track hand movement and respond accordingly.
 
 ## Getting Started
